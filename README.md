@@ -1,6 +1,4 @@
-# OracleStation
-
-[![Build Status](https://travis-ci.org/OracleStation/OracleStation.svg?branch=master)](https://travis-ci.org/OracleStation/OracleStation)
+# LostStation
 
 ## DOWNLOADING
 
